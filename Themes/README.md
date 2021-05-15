@@ -1,1 +1,1 @@
-Just using this to store the images and css files for my custom theme
+Just using this to store the images and css files for my custom theme.
